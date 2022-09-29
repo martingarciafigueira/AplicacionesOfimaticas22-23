@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\bin\Debug\net6.0\EjemploClase2.1.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\bin\Debug\net6.0\EjemploClase2.1.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\bin\Debug\net6.0\EjemploClase2.1.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\bin\Debug\net6.0\EjemploClase2.1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\bin\Debug\net6.0\EjemploClase2.1.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\refint\EjemploClase2.1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\EjemploClase2.1.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploClase2.1\EjemploClase2.1\obj\Debug\net6.0\ref\EjemploClase2.1.dll
