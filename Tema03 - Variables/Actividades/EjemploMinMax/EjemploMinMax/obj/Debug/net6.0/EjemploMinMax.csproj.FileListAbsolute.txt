@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\bin\Debug\net6.0\EjemploMinMax.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\bin\Debug\net6.0\EjemploMinMax.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\bin\Debug\net6.0\EjemploMinMax.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\bin\Debug\net6.0\EjemploMinMax.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\bin\Debug\net6.0\EjemploMinMax.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\refint\EjemploMinMax.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\EjemploMinMax.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Actividades\EjemploMinMax\EjemploMinMax\obj\Debug\net6.0\ref\EjemploMinMax.dll
