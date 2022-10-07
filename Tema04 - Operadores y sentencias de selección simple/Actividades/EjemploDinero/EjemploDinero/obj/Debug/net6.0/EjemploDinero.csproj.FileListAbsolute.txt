@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\bin\Debug\net6.0\EjemploDinero.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\bin\Debug\net6.0\EjemploDinero.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\bin\Debug\net6.0\EjemploDinero.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\bin\Debug\net6.0\EjemploDinero.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\bin\Debug\net6.0\EjemploDinero.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\refint\EjemploDinero.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\EjemploDinero.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\EjemploDinero\EjemploDinero\obj\Debug\net6.0\ref\EjemploDinero.dll
