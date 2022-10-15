@@ -26,12 +26,4 @@ if (presion <= 2 && temperatura <= 500)
     Console.WriteLine("Todo en orden");
 }
 
-
-
-
-
-
-
-
-
 Console.ReadLine();
