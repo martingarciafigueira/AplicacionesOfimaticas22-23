@@ -17,6 +17,7 @@ else
 //Saber si un número es primo
 while (i < numero)
 {
+    Console.WriteLine("Ejecución " + i);
     if (numero % i == 0)
     {
         esPrimo = false;        
