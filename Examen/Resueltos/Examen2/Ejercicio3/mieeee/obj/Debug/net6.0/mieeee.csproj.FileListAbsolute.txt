@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.AssemblyInfo.cs
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Desktop\mieeee\mieeee\bin\Debug\net6.0\mieeee.exe
+C:\Users\MARTIN\Desktop\mieeee\mieeee\bin\Debug\net6.0\mieeee.deps.json
+C:\Users\MARTIN\Desktop\mieeee\mieeee\bin\Debug\net6.0\mieeee.runtimeconfig.json
+C:\Users\MARTIN\Desktop\mieeee\mieeee\bin\Debug\net6.0\mieeee.dll
+C:\Users\MARTIN\Desktop\mieeee\mieeee\bin\Debug\net6.0\mieeee.pdb
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.dll
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\refint\mieeee.dll
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.pdb
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\mieeee.genruntimeconfig.cache
+C:\Users\MARTIN\Desktop\mieeee\mieeee\obj\Debug\net6.0\ref\mieeee.dll
