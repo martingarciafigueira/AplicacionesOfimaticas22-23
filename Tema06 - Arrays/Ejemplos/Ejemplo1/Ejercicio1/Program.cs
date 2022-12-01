@@ -1,4 +1,4 @@
-﻿//Ejemplo: Guardar los nombres de los alumnos en Meet y mostrarlos por pantalla
+﻿//Ejemplo 1: Guardar los nombres de los alumnos en Meet y mostrarlos por pantalla
 
 //Pasos a seguir
 //1. Crear una matriz con todos los nombres

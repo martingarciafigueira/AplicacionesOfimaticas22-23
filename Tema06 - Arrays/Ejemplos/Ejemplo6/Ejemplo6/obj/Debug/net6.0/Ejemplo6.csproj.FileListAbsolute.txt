@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\bin\Debug\net6.0\Ejemplo6.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\bin\Debug\net6.0\Ejemplo6.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\bin\Debug\net6.0\Ejemplo6.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\bin\Debug\net6.0\Ejemplo6.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\bin\Debug\net6.0\Ejemplo6.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\refint\Ejemplo6.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\Ejemplo6.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejemplos\Ejemplo6\Ejemplo6\obj\Debug\net6.0\ref\Ejemplo6.dll
